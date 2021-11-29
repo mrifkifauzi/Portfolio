@@ -1,7 +1,8 @@
 # Portfolio
 Data analysis portfolio based on self-learning. 
 
-KNN 
+1. KNN 
 github.com/mrifkifauzi/KNN
-Kmeans
+
+2. Kmeans
 github.com/mrifkifauzi/KMeans
